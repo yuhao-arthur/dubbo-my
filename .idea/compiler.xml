@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="order-service-consumer" />
+        <module name="boot-user-service-provider" />
         <module name="user-service-provider" />
+        <module name="boot-order-service-consumer" />
         <module name="gmall-interface" />
       </profile>
     </annotationProcessing>
